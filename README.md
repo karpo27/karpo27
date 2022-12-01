@@ -1,6 +1,6 @@
 Hi! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
 
-Technologies: • PYTHON • GIT • GITHUB • SQL • MYSQL // Visual Studio Code • PyCharm • Intellijidea • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
+Technologies: • PYTHON • GIT • GITHUB • SQL • MYSQL • SQLite // Visual Studio Code • PyCharm • Intellijidea • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
 Python Modules: Math, Matplotlib, Numpy.
 
