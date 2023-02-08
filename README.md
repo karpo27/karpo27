@@ -1,9 +1,16 @@
 Hi! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
 
-Technologies: • PYTHON • GIT • GITHUB • SQL • MYSQL • SQLite // Visual Studio Code • PyCharm • Intellijidea • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
+Technologies: • JAVA • PYTHON • GIT • GITHUB • SQL 
 
-Python Modules: Math, Matplotlib, Numpy.
+IDE: • Intellijidea • PyCharm  • Visual Studio Code 
 
-I'm learning via courses on platforms such as OpenBootcamp, Platzi, Youtube, w3schools, among others. I also practice a lot in Exercism.
+Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
-🚀My main goal for 2022-2023 is to work full time for an IT company or startup as a Backend Developer.
+Python Modules: Math, Matplotlib, Numpy, Time, Random, Secrets, Pygame.
+
+Java Modules: In progress...
+
+I'm learning via courses on platforms such as Alura(Oracle ONE Program), OpenBootcamp, Platzi, w3schools, among others. I also practice a lot in Exercism.
+Feel free to check out my repositories!
+
+🚀My main goal for 2023 is to work full time for an IT company or startup as a Backend Developer.
