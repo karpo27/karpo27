@@ -18,5 +18,6 @@ Feel free to check out my repositories!
 🚀My main goal for 2023 is to work full time for an IT company or startup as a Backend Developer.
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/54405665/224484676-cf298a7b-b544-4ece-8d34-0e6b75fe7e9f.png />
+<img src=https://user-images.githubusercontent.com/54405665/224493196-0c43a316-648f-401f-9e9d-67b184b80d15.png
+ />
 </p>
