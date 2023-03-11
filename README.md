@@ -10,7 +10,7 @@ Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workb
 
 Python Modules: Math, Matplotlib, Numpy, Time, Random, Secrets, Pygame.
 
-Java Modules: UTIL, IO, NET, AWT, SWING
+Java Modules: Util, IO, Net, Awt, Swing
 
 I'm learning via courses on platforms such as Alura(Oracle ONE Program), OpenBootcamp, Platzi, w3schools, among others. I also practice a lot in Exercism.
 Feel free to check out my repositories!
