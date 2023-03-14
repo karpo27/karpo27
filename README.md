@@ -6,7 +6,7 @@ IDE: • Intellijidea • PyCharm  • Visual Studio Code
 
 Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
-Python Modules: Math, Matplotlib, Numpy, Time, Random, Secrets, Pygame.
+Python Modules: Math, Matplotlib, Numpy, Time, Random, Secrets, Sqlite, Pygame.
 
 Java Modules: Util, IO, Net, Awt, Swing
 
