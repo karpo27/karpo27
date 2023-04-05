@@ -1,6 +1,6 @@
 Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
 
-Technologies: • JAVA • PYTHON • GIT • GITHUB • SQL
+Technologies: • JAVA • PYTHON • GIT • GITHUB • SQ
 
 IDE: • Intellijidea • PyCharm  • Visual Studio Code 
 
