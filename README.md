@@ -10,7 +10,7 @@ Python Modules: Math, Matplotlib, Numpy, Time, Random, Secrets, Sqlite, Pygame.
 
 Java Modules: Util, IO, Net, Awt, Swing
 
-I'm learning via courses on platforms such as Alura(Oracle ONE Program), OpenBootcamp, Platzi, w3schools, among others. I also practice a lot in Exercism.
+I'm learning via courses on platforms such as Alura(Oracle ONE Program), OpenBootcamp, Platzi, w3schools, among others. I also practice a lot in LeetCode and Exercism.
 Feel free to check out my repositories!
 
 🚀My main goal for 2023 is to work full time for an IT company or startup as a Backend Developer.
