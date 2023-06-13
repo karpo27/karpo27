@@ -1,14 +1,16 @@
 Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
 
-Technologies: • JAVA • PYTHON • GIT • GITHUB • SQL • HTML • CSS
+**Technologies**: • PYTHON • JAVA • GIT • GITHUB • SQL • HTML • CSS
 
-IDE: • Intellijidea • PyCharm  • Visual Studio Code
+**Python Data Modules**: Pandas, Matplotlib, Numpy, Scipy, Scikit Learn, SQLite
 
-Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
+**Other Python Modules**: Pygame, Math, Random, Secrets, Time, etc.
 
-Python Modules: Math, Pandas, Matplotlib, Numpy, SQLite, Pygame, Time, Random, Secrets, etc.
+**Java Modules**: Util, IO, Net, Awt, Swing
 
-Java Modules: Util, IO, Net, Awt, Swing
+**IDE**: • Intellijidea • PyCharm  • Visual Studio Code • Eclipse
+
+**Other Knowledges**: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
 I'm learning via courses on platforms such as Alura (Oracle ONE Program), OpenBootcamp, Cognitive Class (IBM), w3schools, among others. I also practice a lot in LeetCode and Exercism.
 Feel free to check out my repositories!
