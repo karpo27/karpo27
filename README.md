@@ -4,7 +4,7 @@ Technologies: • JAVA • PYTHON • GIT • GITHUB • SQL • HTML • CSS
 
 IDE: • Intellijidea • PyCharm  • Visual Studio Code
 
-Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmi
+Other Knowledges: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
 Python Modules: Math, Pandas, Matplotlib, Numpy, SQLite, Pygame, Time, Random, Secrets, etc.
 
