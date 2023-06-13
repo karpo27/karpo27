@@ -2,7 +2,7 @@ Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer
 
 **Technologies**: • PYTHON • JAVA • GIT • GITHUB • SQL • HTML • CSS
 
-**Python Data Modules**: Pandas, Matplotlib, Numpy, Scipy, Scikit Learn, SQLite
+**Python Data Modules**: Pandas, Matplotlib, Seaborn, Scipy, Scikit Learn, Numpy, SQLite
 
 **Other Python Modules**: Pygame, Math, Random, Secrets, Time, etc.
 
