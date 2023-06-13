@@ -10,7 +10,7 @@ Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer
 
 **IDE**: • Intellijidea • PyCharm  • Visual Studio Code • Eclipse
 
-**Other Knowledges**: • MySQL • SQLite • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
+**Other Knowledges**: • Anaconda • Jupyter Notebook • MySQL • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
 I'm learning via courses on platforms such as Alura (Oracle ONE Program), OpenBootcamp, Cognitive Class (IBM), w3schools, among others. I also practice a lot in LeetCode and Exercism.
 Feel free to check out my repositories!
