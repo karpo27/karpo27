@@ -1,4 +1,4 @@
-Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer. 
+Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer
 
 **Technologies**: • PYTHON • JAVA • GIT • GITHUB • SQL • HTML • CSS
 
