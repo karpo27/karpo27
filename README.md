@@ -1,4 +1,4 @@
-Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
+Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer. 
 
 **Technologies**: • PYTHON • JAVA • GIT • GITHUB • SQL • HTML • CSS
 
@@ -13,7 +13,9 @@ Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer
 **Other Knowledges**: • Anaconda • Jupyter Notebook • MySQL • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
 
 I'm learning via courses on platforms such as Alura (Oracle ONE Program), OpenBootcamp, Cognitive Class (IBM), w3schools, among others. I also practice a lot in LeetCode and Exercism.
-Feel free to check out my repositories!
+Feel free to check out my repositories!.
+
+Actually learning a lot about data modules in Python.
 
 🚀My main goal for 2023 is to work full time for an IT company or startup as a Backend Developer.
 
