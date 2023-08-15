@@ -1,6 +1,6 @@
 Hello, World! 💻 I'm a Backend Developer. 💻  I'm also a Mechanical Engineer.
 
-**Technologies**: • PYTHON • JAVA • SQL • HTML • CSS • JAVASCRIPT • REACT • GIT • GITHUB 
+**Technologies**: • PYTHON • JAVA • SQL • JAVASCRIPT • REACT • HTML • CSS  • GIT • GITHUB 
 
 **Python Data Modules**: Pandas, Matplotlib, Seaborn, Scipy, Scikit Learn, Numpy, SQLite
 
