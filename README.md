@@ -17,7 +17,7 @@ Hello, World! 💻 I'm a Full Stack Developer. 💻  I'm also a Mechanical Engin
 I'm learning via courses on platforms such as Alura (Oracle ONE Program), OpenBootcamp, Cognitive Class (IBM), w3schools, among others. I also practice a lot in LeetCode and Exercism.
 Feel free to check out my repositories!.
 
-🚀My main goal for 2023 is to work full time for an IT company or startup as a Backend Developer.
+🚀My main goal for 2023 is to work full time for an IT company or startup as a Developer.
 
 How to reach me:
 
