@@ -1,21 +1,16 @@
-Hello, World! 💻 I'm a Full Stack Developer. 💻  I'm also a Mechanical Engineer.
+Hello, World! 💻 I'm a Full Stack Developer and also a Mechanical Engineer.
 
 **Technologies**:
 
 ![image](https://github.com/karpo27/karpo27/assets/54405665/d6352929-da90-4804-a8ac-2c251260f6ca)
 
-
-**Javascript Frameworks**: React
-
-**Python Data Modules**: Pandas, Matplotlib, Seaborn, Scipy, Scikit Learn, Numpy, SQLite
-
-**Other Python Modules**: Pygame, Math, Random, Secrets, Time, etc.
+**Python Modules**: Pandas, Matplotlib, Seaborn, Scipy, Scikit Learn, Numpy, SQLite, Pygame
 
 **Java Modules**: Util, IO, Net, Awt, Swing
 
 **IDE**: • Intellijidea • PyCharm  • Visual Studio Code • Eclipse
 
-**Other Knowledges**: • Anaconda • Jupyter Notebook • MySQL • XAMPP •  DB Browser • MySQL Workbench • pgAdmin
+**Other Knowledges**: • Anaconda • Jupyter Notebook • MySQL • XAMPP •  DB Browser • MySQL Workbench • pgAdmin • Figma
 
 I'm learning via courses on platforms such as Alura (Oracle ONE Program), OpenBootcamp, Cognitive Class (IBM), w3schools, among others. I also practice a lot in LeetCode and Exercism.
 Feel free to check out my repositories!.
