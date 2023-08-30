@@ -1,6 +1,9 @@
 Hello, World! 💻 I'm a Full Stack Developer. 💻  I'm also a Mechanical Engineer.
 
-**Technologies**: • PYTHON • JAVA • SQL • JAVASCRIPT • REACT • HTML • CSS  • GIT 
+**Technologies**:
+
+![image](https://github.com/karpo27/karpo27/assets/54405665/d6352929-da90-4804-a8ac-2c251260f6ca)
+
 
 **Javascript Frameworks**: React
 
