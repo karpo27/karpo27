@@ -1,6 +1,6 @@
 Hello, World! 💻 I'm a Full Stack Developer. 💻  I'm also a Mechanical Engineer.
 
-**Technologies**: • PYTHON • JAVA • SQL • JAVASCRIPT • REACT • HTML • CSS  • GIT • GITHUB 
+**Technologies**: • PYTHON • JAVA • SQL • JAVASCRIPT • REACT • HTML • CSS  • GIT 
 
 **Javascript Frameworks**: React
 
