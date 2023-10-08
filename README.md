@@ -1,4 +1,4 @@
-Hello, World! 💻 I'm a Full Stack Developer and also a Mechanical Engineer.
+Hello, World! 💻 I'm a Full Stack Developer and also a Mechanical Engineer
 
 **Technologies**:
 
